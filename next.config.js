@@ -1,6 +1,6 @@
 const debug = process.env.NODE_ENV !== 'production'
 
 module.exports = {
-  basePath: !debug ? '/<name-of-the-app>' : '',
-  assetPrefix: !debug ? '/<name-of-the-app>/' : '',
+  basePath: !debug ? '/jackherrington-introtoreact-reactjsnextjsreduxzustandmobx-9-20210412-pokemonapp-nextjs-ssg-deploy' : '',
+  assetPrefix: !debug ? '/jackherrington-introtoreact-reactjsnextjsreduxzustandmobx-9-20210412-pokemonapp-nextjs-ssg-deploy/' : '',
 }
